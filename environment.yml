@@ -1,0 +1,12 @@
+name: pyaos-ams-2023
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - cartopy
+  - jupyterlab
+  - matplotlib
+  - metpy
+  - numpy
+  - pykdtree
+  - siphon
