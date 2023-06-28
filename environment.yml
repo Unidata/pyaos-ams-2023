@@ -6,7 +6,7 @@ dependencies:
   - cartopy
   - jupyterlab
   - matplotlib
-  - metpy
+  - metpy=1.5
   - numpy
   - pykdtree
   - siphon
